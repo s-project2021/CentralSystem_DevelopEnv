@@ -3,3 +3,6 @@ numpy
 opencv-python
 DateTime
 requests
+pybase64
+djangorestframework
+xmltodict
