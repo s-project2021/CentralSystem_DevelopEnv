@@ -6,3 +6,4 @@ requests
 pybase64
 djangorestframework
 xmltodict
+django-leaflet
