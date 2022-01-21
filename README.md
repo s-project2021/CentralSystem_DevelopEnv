@@ -14,7 +14,7 @@ sh start.sh
 ```
 build.shに加え、docker execを行います。
 ここでコンテナ内のターミナルを操作できます。  
-実行だけ行う場合は、[docker-compose.yml](https://github.com/s-project2021/SC_DevelopEnv/blob/develop/docker-compose.yml)を編集し、`command行`のコメントアウトと`tty:true`のコメント化を推奨します。
+実行だけ行う場合は、[docker-compose.yml](https://github.com/s-project2021/SC_DevelopEnv/blob/develop/docker-compose.yml)を編集し、`command行`のコメント解除と`tty:true`のコメント化を推奨します。
 
 # Stop
 ```sh
