@@ -24,7 +24,13 @@ docker-compose down
 
 # Delete
 ```sh
-sh remove_conrainer.sh
+sh remove.sh
 ```
 コンテナの終了(`docker-compose down --rmi all --volumes --remove-orphans`)と削除、Dockerネットワークのの削除を行います。
+
+# 注意
+ご利用はすべて自己責任でお願いします。必ず、コードを確認し、問題がないことを利用してから実行してください。  
+もし何かありましたら、`Issues`や`Pull Request`等でお知らせください。
+
+
 
